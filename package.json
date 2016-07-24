@@ -1,0 +1,54 @@
+{
+  "dependencies": {},
+  "description": "A simple utility to parse a URL",
+  "devDependencies": {},
+  "directories": {},
+  "files": [
+    "app.js"
+  ],
+  "homepage": "https://github.com/lkjoshi/urlParser",
+  "keywords": [
+    "url",
+    "javascript",
+    "parser"
+  ],
+  "licenses": [],
+  "main": "./app",
+  "maintainers": [
+    {
+      "name": "lkjoshi",
+      "email": "lkjosi@gmail.com"
+    }
+  ],
+  "name": "splitonce",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lkjoshi/urlParser.git"
+  },
+  "scripts": {},
+  "version": "0.1.1",
+  "gitHead": "50d7e023333c8f2d310bb89228d754f62434dd47",
+  "bugs": {
+    "url": "https://github.com/lkjoshi/urlParser/issues"
+  },
+  "_id": "urlParser@0.1.1",
+  "_shasum": "0f67c0f3f5729a031f50776d4ef6cece2f8bb801",
+  "_from": "urlParser@*",
+  "_npmVersion": "2.15.1",
+  "_nodeVersion": "4.4.4",
+  "_npmUser": {
+    "name": "lkjoshi",
+    "email": "lkjoshi@gmail.com"
+  },
+  "dist": {
+    "shasum": "0f67c0f3f5729a031f50776d4ef6cece2f8bb801",
+    "tarball": "https://registry.npmjs.org/splitonce/-/urlParser-0.1.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/urlParser-0.1.1.tgz_1467208783264_0.9999873538035899"
+  },
+  "_resolved": "https://registry.npmjs.org/urlParser/-/urlParser-0.1.1.tgz"
+}
+
