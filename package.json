@@ -27,7 +27,7 @@
     "url": "git@github.com:lkjoshi/urlParser.git"
   },
   "scripts": {},
-  "version": "0.1.1",
+  "version": "0.1.2",
   "bugs": {
     "url": "https://github.com/lkjoshi/urlParser/issues"
   }
